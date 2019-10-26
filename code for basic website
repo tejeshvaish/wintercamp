@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+         
+    </head>
+    <body>
+        <div><h1>THIS IS MY BANNER TEXT</h1></div>
+        <div>
+            <ul>
+                <li><a href="https://www.facebook.com/.html">HOME</a></li>
+                <li><a href="https://github.com/tejesh-vaish/wintercamp/new/master.html">INFO</a></li>
+            
+            </ul>
+        </div>
+        <h2>This Is My Paragraph Header</h2>
+        <p>
+            i am loving it .....
+        </p>
+        <p>
+            thanks for giving me a opportunity
+        </p>
+        <div>This is where I can place a copyright logo like this TEJESH</div>
+    </body>
+</html>
